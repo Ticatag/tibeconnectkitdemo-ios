@@ -1,0 +1,27 @@
+//
+//  tibedemo-Prefix.pch
+//  tibedemo
+//
+//  Created by frederic Visticot on 03/11/2016.
+//  Copyright © 2016 ticatag. All rights reserved.
+//
+
+#ifndef tibedemo_Prefix_pch
+#define tibedemo_Prefix_pch
+
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import <CocoaLumberjack/CocoaLumberjack.h>
+#endif
+
+
+#ifdef DEBUG
+static const int ddLogLevel = DDLogLevelInfo;
+#elif ADHOC
+static const int ddLogLevel = DDLogLevelInfo;
+#else
+static const int ddLogLevel = DDLogLevelInfo;
+#endif
+
+#endif /* tibedemo_Prefix_pch */

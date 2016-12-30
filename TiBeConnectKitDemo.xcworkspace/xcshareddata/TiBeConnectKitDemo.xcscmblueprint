@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "DB3911094281492A0C9E60A343D1CCFC361D1290",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "DB3911094281492A0C9E60A343D1CCFC361D1290" : 9223372036854775807,
+    "07936CBE1D6AC50F0CB8AF4AA3E90BEE4971C31D" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "20F70E09-D5A5-42DD-B60D-4677339F32F7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "DB3911094281492A0C9E60A343D1CCFC361D1290" : "tibeconnectkit-demo-ios\/",
+    "07936CBE1D6AC50F0CB8AF4AA3E90BEE4971C31D" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TiBeConnectKitDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TiBeConnectKitDemo.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:TicatagSAS\/tibeconnectkit-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "07936CBE1D6AC50F0CB8AF4AA3E90BEE4971C31D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/TicatagSAS\/tibeconnectkitdemo-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DB3911094281492A0C9E60A343D1CCFC361D1290"
+    }
+  ]
+}
